@@ -1,9 +1,9 @@
 #   Flappy Bird Reinforcement Learning Agent
 ## SARSA vs. Q-Learning
 
-# ![][image1]
+# ![][flappybird_1]
 
-# ![][image2]
+# ![][flappybird_2]
 
 #
 
