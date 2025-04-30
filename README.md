@@ -1,7 +1,7 @@
 #   Flappy Bird Reinforcement Learning Agent
 ## SARSA vs. Q-Learning
 
-# ![flappybird_1]](https://github.com/Efi-Pecani/FlappyBird-RL-Agent/blob/main/Flappy_Bird_Logo.png)
+# ![flappybird_1](https://github.com/Efi-Pecani/FlappyBird-RL-Agent/blob/main/Flappy_Bird_Logo.png)
 
 # ![flappybird_2](https://github.com/Efi-Pecani/FlappyBird-RL-Agent/blob/main/flappybird_phisics.png)
 
